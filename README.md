@@ -62,11 +62,6 @@ Homepage (Agent Section)
   <img src="README%20images/homepage.png" width="800">
 </p>
 
-Homepage Animation (GIF)
-<p align="center">
-  <img src="README%20images/laforant_homepage_gif.gif" width="800">
-</p>
-
 Navigation Bar (Dropdown Menu)
 <p align="center">
   <img src="README%20images/header.png" width="800">
@@ -81,12 +76,6 @@ Footer Section
 <p align="center">
   <img src="README%20images/footer.png" width="800">
 </p>
-
-Pre-Register Form
-<p align="center">
-  <img src="README%20images/pre-register-form.png" width="800">
-</p>
-
 
 ### Security & Best Practices
 
